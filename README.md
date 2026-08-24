@@ -14,7 +14,7 @@
 name: Akshat Tiwari
 role: Full-Stack & Software Engineer
 location: India 🇮🇳
-passions: [Web Development, UI/UX, AI Integration, Open Source]
+passions: [Web Development, UI/UX, AI Integration, AI Engineer]
 current_focus: Building modern web apps with React, TypeScript & Node.js
 learning: Advanced System Design, Cloud Architecture & Next.js
 hobbies: [Coding 💻, Tech Blogging 📝, Exploring New Tech 🚀]
@@ -23,7 +23,7 @@ hobbies: [Coding 💻, Tech Blogging 📝, Exploring New Tech 🚀]
 - 🔭 **Currently working on**: High-performance web applications & AI dashboards
 - 🌱 **Learning & Improving**: Advanced State Management, Serverless APIs & DevOps
 - 💬 **Ask me about**: **React, TypeScript, Node.js, Express, JavaScript, Web Aesthetics**
-- 📫 **How to reach me**: `akshattivari018@gmail.com`
+- 📫 **How to reach me**: `akshat.tiwariglbajaj@gmail.com`
 - ⚡ **Fun Fact**: I love crafting pixel-perfect web interfaces with modern animations!
 
 ---
