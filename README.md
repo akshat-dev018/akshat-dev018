@@ -119,33 +119,15 @@ hobbies: [Coding 💻, Tech Blogging 📝, Exploring New Tech 🚀]
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-dev018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-dev018&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="48%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-dev018&theme=tokyonight&hide_border=true" alt="Akshat's GitHub Streak" width="97%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-dev018&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Akshat's Trophies" />
-</div>
 
 ---
 
 ## 🌐 Connect & Socials
 
 <div align="center">
-  <a href="www.linkedin.com/in/akshat-tiwari-cse">
+  <a href="https://www.linkedin.com/in/akshat-tiwari-cse/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akshat.tiwariglbajaj@gmail.com">
